@@ -27,18 +27,18 @@ The model uses a pre-trained architecture such as YOLO (You Only Look Once) or F
 
 ⚙️ Installation Steps
 
-Follow these steps to set up and run the project on your system:
+Follow these steps to set up and run the project on your systembr:<br>
 	1.	Clone the Repository:
     git clone https://github.com/shaiksanobar/object-detection-system.git
-    cd object-detection-
-    2.Install Required pip install -r requirements.txt
-3.	Download Pre-trained Model Weights
+    cd object-detection-<br>
+    2.Install Required pip install -r requirements.txt<br>
+3.	Download Pre-trained Model Weights<br>
 	•	You can use YOLOv5 or Faster R-CNN pre-trained weights.
-	•	Place the downloaded weights in the models/ directory.
-4.	Run the Script
-python detect.py
-5.	Upload an Image or Video
-	•	The program will detect and classify objects in real time or from uploaded files.
+	•	Place the downloaded weights in the models/ directory.<br>
+4.	Run the Script<br>
+python detect.py<br>
+5.	Upload an Image or Video<br>
+	•	The program will detect and classify objects in real time or from uploaded files.<br>
 
 ⸻
 
